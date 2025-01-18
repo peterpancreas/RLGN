@@ -36,6 +36,18 @@ While the application is running, you can use the following commands:
 - Press `o` to turn off the light.
 - Press `q` to quit the application.
 
+- ## Arduino Code
+
+The Arduino code for this project is located in the `arduino code` directory.
+
+### Setup Instructions
+
+1. Open the Arduino IDE.
+2. Open the `.ino` file located in the `arduino code` directory.
+3. Connect your Arduino board to your computer.
+4. Select the appropriate board and port in the Arduino IDE.
+5. Upload the code to the Arduino board.
+
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for more details.
